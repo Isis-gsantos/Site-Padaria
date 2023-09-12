@@ -1,0 +1,37 @@
+header{
+    background: #FFB5A7;
+
+    section{
+        align-items: center;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: row-reverse;
+        padding: 2px;
+        border-bottom: 5px solid #ffccd5;
+
+        nav{
+            ul{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+
+                li a{
+                margin-right: 280px;
+                margin-left: -110px;
+                font-family: 'Montserrat', sans-serif;
+                color: #FEFAE0;
+                font-size: large;
+                font-weight: 550;
+                }
+            }
+        }
+
+        div{
+            img{
+                width: 190px;
+                display: flex;
+                flex-direction: row;
+            }
+        }
+    }
+}

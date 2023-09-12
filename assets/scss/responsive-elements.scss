@@ -1,0 +1,49 @@
+@media (max-width: 2560px) {
+    .container{
+        width: 1500px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .container {
+      width: 950px;
+    }
+
+    .Conteudo-Principal-1{
+        figcaption{
+            img {
+                width: 550px;
+            }
+        }
+    }
+
+    .Conteudo-Principal-2 {
+        figcaption {
+            img {
+                width: 550px;
+            }
+        }
+    }
+  }
+
+  @media (max-width: 1300px) {
+    .container{
+        width: 850px;
+    }
+
+    .Conteudo-Principal-1{
+        figcaption{
+            img {
+                width: 150px;
+            }
+        }
+    }
+
+    .Conteudo-Principal-2 {
+        figcaption {
+            img {
+                width: 150px;
+            }
+        }
+    }
+  }
